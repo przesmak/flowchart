@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T09:38:26.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hex_XEpg-F200R0c9agx" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T09:51:27.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cbeXWIJQQ2qykWaif-o_" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2166" dy="1266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4091" dy="2391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -134,7 +134,7 @@
         <mxCell id="_9u5gonBgy00dIRMWvmQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL7egWIAGky8Ws3KJtJu-22" target="_9u5gonBgy00dIRMWvmQ-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nL7egWIAGky8Ws3KJtJu-22" value="Define Cooldown Time Conditions &lt;br&gt;(2 options)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="nL7egWIAGky8Ws3KJtJu-22" value="Define &lt;b&gt;CDT&amp;nbsp;Conditions &lt;/b&gt;&lt;br&gt;(2 options)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="783" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_9u5gonBgy00dIRMWvmQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_9u5gonBgy00dIRMWvmQ-0" target="_9u5gonBgy00dIRMWvmQ-2">
@@ -160,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_9u5gonBgy00dIRMWvmQ-0" value="Specific CDT conditions selected?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="772.5" width="180" height="80" as="geometry" />
+          <mxGeometry x="930" y="760" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_9u5gonBgy00dIRMWvmQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_9u5gonBgy00dIRMWvmQ-2">
           <mxGeometry relative="1" as="geometry">
@@ -184,7 +184,7 @@
         <mxCell id="_9u5gonBgy00dIRMWvmQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_9u5gonBgy00dIRMWvmQ-8" target="_9u5gonBgy00dIRMWvmQ-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_9u5gonBgy00dIRMWvmQ-8" value="Specify Initial &lt;br&gt;Conditions for every domain ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-8" value="Specify &lt;b&gt;Initial &lt;br&gt;Conditions&lt;/b&gt; for every domain ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="1120" width="140" height="105" as="geometry" />
         </mxCell>
         <mxCell id="_9u5gonBgy00dIRMWvmQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_9u5gonBgy00dIRMWvmQ-10" target="_9u5gonBgy00dIRMWvmQ-12">
@@ -233,8 +233,58 @@
         <mxCell id="_9u5gonBgy00dIRMWvmQ-24" value="&lt;h1&gt;Domain conditions&lt;/h1&gt;&lt;p&gt;Each of the domain should have possibility to define specific initial properties independently. &lt;br&gt;- In case a specific domain remains on default values, user should get visible information about assumed sea depth, HW443.&amp;nbsp;&lt;br&gt;- In case User is willing to change the default value for specific domain, three propertie should be provided as: initial temperature, pressure, fluid type (pre-defined list of fluid types)&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="989" width="690" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_9u5gonBgy00dIRMWvmQ-25" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="1310" width="120" height="60" as="geometry" />
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_9u5gonBgy00dIRMWvmQ-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-25" value="Select &lt;br&gt;&lt;b&gt;Insulation Type&lt;br&gt;&lt;/b&gt;(3 options)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="1310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_9u5gonBgy00dIRMWvmQ-29" target="_9u5gonBgy00dIRMWvmQ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-29" value="Thermal performance calculations&amp;nbsp;&lt;br&gt;(backend)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_9u5gonBgy00dIRMWvmQ-32" target="_9u5gonBgy00dIRMWvmQ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-32" value="Results and message to the User about meeting criteria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_9u5gonBgy00dIRMWvmQ-34" target="_9u5gonBgy00dIRMWvmQ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-34" value="Select &lt;br&gt;sections for the report generator&lt;br&gt;(multiple selection)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1630" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_9u5gonBgy00dIRMWvmQ-36" target="_9u5gonBgy00dIRMWvmQ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="1740" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;startArrow=classic;startFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_9u5gonBgy00dIRMWvmQ-36" target="_9u5gonBgy00dIRMWvmQ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-36" value="Generating report with thermal performance of XT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="1754" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-38" value="Download generated report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_9u5gonBgy00dIRMWvmQ-42" target="_9u5gonBgy00dIRMWvmQ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-42" value="Preparing .docx document" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="1754" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-45" value="&lt;h1&gt;Backend sub-processes&lt;/h1&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="1700" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_9u5gonBgy00dIRMWvmQ-46" value="Store generated document in the database" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="1754" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
